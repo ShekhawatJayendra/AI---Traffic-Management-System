@@ -1,1 +1,16 @@
 Jayendra singh shekhawat
+REG NO 04
+REG 11802102
+COLLECTED THE THE INFORMATION ABOUT THE PROJECT AND 
+PROVIDED THE BASIC CONCEPTS AND IMPLEMENTATION OF THE PROJECT 
+AND VERIFIED THE OUTPUT ALONG WITH THE TEST CASES AND CORRECTION OF THE CODE.
+ALSO PROVIDED THE FUNCTION OF RANDOM VARIABLE IN CODE
+
+
+def generateRandomCars(maxNum):
+    global arrCarsAtPoint
+    for i in range(4):
+        arrCarsAtPoints.append(random.randrange(1,maxNum,1))
+        
+        
+        THANK YOU
